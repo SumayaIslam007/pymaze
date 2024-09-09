@@ -1,1 +1,1 @@
-Pymaze using A* algorithm in python
+# Pymaze using A* algorithm in python
